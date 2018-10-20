@@ -1,7 +1,8 @@
   微信公众号
+  
  ![这里写图片描述](http://upload-images.jianshu.io/upload_images/11866078-a6969884111cd3b4?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-[简书](https://www.jianshu.com/p/472b1bbc0b94)
+ 
+[简书](https://www.jianshu.com/u/b8159d455c69)
 
 [APK](https://github.com/AnJiaoDe/Keyboard/blob/master/app/build/outputs/apk/app-debug.apk)
 
